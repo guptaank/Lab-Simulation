@@ -2,7 +2,6 @@
 This simulation contains a MUX router running BIRD with two client and two peers exchanging BGP routes via MUX.
 
 ####Topology:
-==========
 <ol>
 <li>|Host_1|-----|M|-----|Peer_1|</li>
 <li>             |U|-----------------|Route Server|</li>
