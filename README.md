@@ -1,5 +1,5 @@
 ##Lab-Simulation
-This simulation contains a MUX router running BIRD with two client and two peers exchanging BGP routes via MUX.
+This simulation contains a MUX router running BIRD with two client, two peers and one route server exchanging BGP routes via MUX.
 
 ####Topology:
 <ol>
