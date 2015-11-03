@@ -31,7 +31,7 @@ Peers or Route Server.</li>
    <ol>
    <li>BGP community list with 6777:* or 0:* will be advertized to only Router Server.</li>
    <li>BGP community list with 47065:peerAs will be advertised to only direct peer with AS no. peerAs.</li>
-   <li>BGP community list with both the communities as in point 1 & 2, will be advertised to direct peers based on peerAS number and to Route Server.</li>
+   <li>BGP community list with both the communities as in point i & ii, will be advertised to direct peers based on peerAS number and to Route Server.</li>
    <li>Prefixes with no BGP community will not be advertised to any Peer or Route Server.</li>
    </ol>
    </li>
